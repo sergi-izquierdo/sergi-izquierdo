@@ -8,7 +8,7 @@ Based in Tarragona, Spain. Open to remote work (freelance, contract, or project-
 
 **[Pista Rapita](https://pistarapita.cat)** · Municipal sports facility management platform for a local government. NestJS API (14 modules), React PWA, PostgreSQL. Handles real bookings, notifications, and RBAC in production.
 
-**[SynapseNotes](synapse-notes.vercel.app)** · AI note-taking app with RAG chat. Users ask questions and get answers grounded in their own notes. Next.js 16, Supabase, pgvector embeddings, Vercel AI SDK, Google Gemini. Also my thesis project (TFG) at URV.
+**[SynapseNotes](https://synapse-notes.vercel.app)** · AI note-taking app with RAG chat. Users ask questions and get answers grounded in their own notes. Next.js 16, Supabase, pgvector embeddings, Vercel AI SDK, Google Gemini. Also my thesis project (TFG) at URV.
 
 **DEIM Manager** · Enterprise department management system used internally at URV. Spring Boot, Java 21, MariaDB, 115+ Flyway migrations, CAS SSO, Hibernate Envers for audit trails.
 
