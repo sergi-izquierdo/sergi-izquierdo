@@ -12,8 +12,6 @@ Based in Tarragona, Spain. Open to remote work (freelance, contract, or project-
 
 **DEIM Manager** · Enterprise department management system used internally at URV. Spring Boot, Java 21, MariaDB, 115+ Flyway migrations, CAS SSO, Hibernate Envers for audit trails.
 
-**[ShenaniForge](https://shenaniforge.com)** · Community platform with 26 Supabase tables, RLS-based multi-tenant isolation, binary codec pipelines (Base64/ZSTD/JSON), and interactive data visualizations.
-
 ## Tech
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
